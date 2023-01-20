@@ -1,0 +1,6 @@
+.mat-tab-group {
+    display: contents !important;
+}
+.mat-tab-label-content:disabled{
+    color: #fff;
+}
